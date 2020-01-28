@@ -1,0 +1,31 @@
+{
+  "flavorData": {
+    "flavorName": "skooptvAndroidTV",
+    "variantType": "Prod",
+    "jksName": "skooptvandroidtv"
+  },
+  "playStoreData": {
+    "appName": "Skoop TV",
+    "applicationId": "com.release.skooptv",
+    "versionCode": 1,
+    "versionName": "1.0.1"
+  },
+  "muviData": {
+    "authToken": "e75d9d4e1dc8e808a2f5bc14cd6b4e43",
+    "baseUrlStaging": "https://api.muvi.com/rest/",
+    "baseUrlProd": "https://api.muvi.com/rest/",
+    "primaryColor": "#0cb9f2"
+  },
+  "assetUrls": {
+    "banner": "https://firebasestorage.googleapis.com/v0/b/jenkins-2510e.appspot.com/o/skooptv%2Fbanner.png?alt=media&token=b4c807b5-6f91-4cb8-9d50-1ef54e00213f",
+    "background_color": "https://firebasestorage.googleapis.com/v0/b/jenkins-2510e.appspot.com/o/skooptv%2Fbackground_color.png?alt=media&token=a1951b02-b93c-4a23-b7fb-d341ba4d7cf6",
+    "drawer_logo": "https://firebasestorage.googleapis.com/v0/b/jenkins-2510e.appspot.com/o/skooptv%2Fdrawerlogo.png?alt=media&token=3d1156fd-336b-409e-b6ce-1103d5055c7a",
+    "logo": "https://firebasestorage.googleapis.com/v0/b/jenkins-2510e.appspot.com/o/skooptv%2Flogo.png?alt=media&token=9b10db76-33cf-46ed-b9a1-940bd2d0bc69",
+    "splash": "https://firebasestorage.googleapis.com/v0/b/jenkins-2510e.appspot.com/o/skooptv%2Fsplash.png?alt=media&token=8e70f0c0-f9c0-411c-8b11-da3c6bb8890b"
+  },
+  "otherUrls": {
+    "ic_launcher": "https://firebasestorage.googleapis.com/v0/b/jenkins-2510e.appspot.com/o/skooptv%2Fic_launcher.png?alt=media&token=689ff105-acb0-4b0b-a9fe-2c5607b8088b",
+    "jksUrl": "https://firebasestorage.googleapis.com/v0/b/jenkins-2510e.appspot.com/o/skooptv%2Fskooptvandroidtv.jks?alt=media&token=7417a861-faf9-402c-875a-fb9f953063e1",
+    "google-services": "https://firebasestorage.googleapis.com/v0/b/jenkins-2510e.appspot.com/o/skooptv%2Fgoogle-services.json?alt=media&token=a2da8c0a-9145-4c0b-8283-8e78b2d2ba53"
+  }
+}
